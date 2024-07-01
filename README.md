@@ -1,2 +1,2 @@
 # Python4x
-A 30 Challenge of learning python through projects, assignment and challenges.
+A 30-day Challenge of learning more about python through projects, assignment and challenges.
